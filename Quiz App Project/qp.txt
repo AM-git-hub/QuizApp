@@ -1,0 +1,50 @@
+QUESTION:
+<<the text of the question>>
+CORRECT OPTION:
+a
+OPTIONS:
+[A] <<text of option A>>
+[B] <<text of option B>>
+[C] <<text of option C>>
+[D] <<text of option D>>
+END_QUESTION:
+QUESTION:
+What colour is the sky?
+CORRECT OPTION:
+b
+OPTIONS:
+[A] Red
+[B] Blue
+[C] Yellow
+[D] Green
+END_QUESTION:
+QUESTION:
+How many days are there in a week?
+CORRECT OPTION:
+d
+OPTIONS:
+[A] 4
+[B] 6
+[C] 8
+[D] 7
+END_QUESTION:
+QUESTION:
+How many days are there in a leap year?
+CORRECT OPTION:
+c
+OPTIONS:
+[A] 360
+[B] 370
+[C] 366
+[D] 365
+END_QUESTION:
+QUESTION:
+abcd
+CORRECT OPTION:
+a
+OPTIONS:
+[A] <<text of option A>>
+[B] <<text of option B>>
+[C] <<text of option C>>
+[D] <<text of option D>>
+END_QUESTION:

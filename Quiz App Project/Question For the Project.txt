@@ -1,0 +1,27 @@
+So here is the project that you should work on.
+It’s a quiz application 
+
+Administrator will create a quiz in a text file in the following format
+
+QUESTION:
+<<the text of the question>>
+CORRECT OPTION:
+<<the correct option A/B/C or D>>
+OPTIONS:
+[A] <<text of option A>>
+[B] <<text of option B>>
+[C] <<text of option C>>
+[D] <<text of option D>>
+END_QUESTION:
+ 
+
+Write a Pyhon program that reads this text file and displays the questions and the available options in random order. It should allow the test taker to choose an option by typing A/B/C/D.
+When all the questions in the text file are over, it should display the following
+
+Total Correct answers
+Total Wrong answers
+All the questions where the test taker couldn’t answer correctly, should be displayed with the correct answer as explained below
+
+Question : <<Question Text>>
+Correct Option : <<correct option>>
+Your Selected Option: <<Option selected by the test taker>>
